@@ -6,7 +6,7 @@ PrintString("\nMon HE DIEU HANH - DO AN 1");
 PrintString("\n------------------------------------------------------");
 PrintString("\nCAC THANH VIEN NHOM:");
 PrintString("\n19120685 - Vo Ngoc Tin - ngoctinvo2001@gmail.com");
-PrintString("\n19120685 - Trinh Thi Thuy");
+PrintString("\n19120390 - Trinh Thi Thuy - trinhthuy210100@gmail.com");
 PrintString("\n19120580 - Le Duc Minh - ldminh852001@gmail.com\n");
 PrintString("\n------------------------------------------------------");
 PrintString("\nCHUONG TRINH ASCII");
